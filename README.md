@@ -1,9 +1,6 @@
 # ✭ PREMIUM CRACK
 #### Made With ❤️ Heaven Azhar
 ```
-Thanks To :
-- 
-```
 ## ⇨  Feature Login
 ```
 [✯] Login Token  
@@ -28,7 +25,7 @@ $ pip install requests
 $ pip install mechanize  
 $ pip install futures  
 $ rm -rf premium  
-$ git clone https://github.com/Heavenzar/premium  
+$ git clone https://github.com/Heavenzar/Crack-FB  
 ```
 ## ⇨  Run Script
 ```
