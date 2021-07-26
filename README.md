@@ -1,4 +1,4 @@
-# ✭ PREMIUM CRACK
+# ✭ HEAVEN AZHAR
 #### Made With ❤️ Heaven Azhar
 ```
 ## ⇨  Feature Login
@@ -10,9 +10,7 @@
 ```
 [✯] Crack From Friend, Public, Followers, Likers    
 [✯] Crack Default/Manual Pass  
-[✯] Crack Methode Api, Mbasic, Free FB  
-[✯] Crack With TTL/DOB  
-[✯] Crack Default 5 Country
+[✯] Crack Methode Api, Mbasic
 ```
 ## ⇨  Install Script On Termux
 ```
